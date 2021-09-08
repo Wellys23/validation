@@ -1,8 +1,0 @@
-#!/bin/bash
-
-pwd
-/root
-echo $HOME
-source ./1-bring_me_home
-pwd
-validtion/modelu0_task1
