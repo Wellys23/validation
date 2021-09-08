@@ -2,5 +2,5 @@
 ls -la .
 
 # ls on home directory
-chmod +x 3-listmorefiles
+chmod +x 2-listmorefiles
 ./3-listmorefiles
